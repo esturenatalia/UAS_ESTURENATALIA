@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604283011571",
+    "project_id": "uas-estu-renatalia",
+    "storage_bucket": "uas-estu-renatalia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604283011571:android:2291216cb1f32cc33e1286",
+        "android_client_info": {
+          "package_name": "com.estu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604283011571-mpb14shn6clh2vv4kkd68jbb8r75u3n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estu.myapplication",
+            "certificate_hash": "6ba0918046522df9ba560dd2111ff85c0a5aaeae"
+          }
+        },
+        {
+          "client_id": "604283011571-tu4h1p8iojiue8a2loo3tntkkv5d5us3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfWVzAeAdXIiFfi7WQRKGwHZpu34QHK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604283011571-tu4h1p8iojiue8a2loo3tntkkv5d5us3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
